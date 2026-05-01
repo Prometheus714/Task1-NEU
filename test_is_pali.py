@@ -8,7 +8,7 @@ class TestClass:
         ("Racecar", True),
         ("Python", False),
         ("Aibohphobia", True),
-        ("", False)
+        ("", True)
 
     ])
     
